@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Pruthviraj Kakade — Software Engineer" width="100%" />
+  <img src="assets/banner.png" alt="Pruthviraj Kakade — Software Engineer, 4.5+ years. Backend: Python, FastAPI, Flask. Frontend: Vue.js, React. Based in Pune, India." width="100%" />
 </p>
 
 <p align="center">
