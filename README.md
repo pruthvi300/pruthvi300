@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://pruthvi300.github.io"><img src="https://img.shields.io/badge/Portfolio-pruthvi300.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/pruthviraj-kakade-631742169"><img src="https://img.shields.io/badge/LinkedIn-Pruthviraj%20Kakade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pruthvi3.pk@gmail.com"><img src="https://img.shields.io/badge/Email-pruthvi3.pk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=pruthvi300&style=for-the-badge&color=38BDF8&label=Profile+views" alt="Profile views" />
@@ -18,6 +19,7 @@ Software engineer from **Pune, India** with **4.5+ years** of experience buildin
 - 🧠 Recently building with **LLMs and RAG** (LangChain, ChromaDB, OpenAI / Ollama)
 - 🌱 Currently going deeper into **Kubernetes, Terraform and AWS**
 - 💬 Ask me about **FastAPI, Celery, Redis, PostgreSQL, Vue.js** or system design
+- 🌐 Portfolio: **[pruthvi300.github.io](https://pruthvi300.github.io)**
 - 📫 Reach me at **pruthvi3.pk@gmail.com**
 - 🏐 Outside of code: volleyball and travelling
 - 🗣️ I speak English, Hindi and Marathi
@@ -61,7 +63,7 @@ Also: Celery, SQLAlchemy, Pydantic, ClickHouse, Pandas, Pytest, LangChain, Chrom
 |---------|------------|-------|
 | [**Pulse**](https://github.com/pruthvi300/pulse-jobs) | Distributed job processing: retries with backoff, idempotency keys, dead-letter queue, React dashboard. Load-tested with 5,000 jobs and 0 lost. | FastAPI · Celery · Redis · PostgreSQL · K8s · Terraform |
 | [**Prime Auth**](https://github.com/pruthvi300/prime-auth) | Authentication service with JWT access/refresh tokens, refresh-token rotation with reuse detection, and rate limiting | FastAPI · PostgreSQL · SQLAlchemy async · Alembic |
-| [**DocuMind**](https://github.com/pruthvi300/documind) | Chat with your documents: RAG pipeline with streaming answers and source citations, runs on OpenAI or fully local with Ollama | FastAPI · LangChain · ChromaDB · Next.js |
+| **DocuMind** *(repo coming soon)* | Chat with your documents: RAG pipeline with streaming answers and source citations, runs on OpenAI or fully local with Ollama | FastAPI · LangChain · ChromaDB · Next.js |
 | [**TeamSync**](https://github.com/pruthvi300/teamsync) | Real-time collaborative Kanban boards with drag-and-drop and live sync | React · FastAPI · Socket.IO · PostgreSQL |
 | [**Shorty**](https://github.com/pruthvi300/shorty) | URL shortener with Redis-cached redirects and a click analytics dashboard | Flask · MySQL · Redis · Vue 3 |
 | [**LinkSnap**](https://github.com/pruthvi300/linksnap) | URL shortener with accounts, expiry and click limits, analytics and QR codes | FastAPI · MySQL · React |
