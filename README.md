@@ -69,18 +69,12 @@ Also: Celery, SQLAlchemy, ClickHouse, Pandas, LangChain, ChromaDB, Socket.IO, Qu
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi300&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pruthvi300&theme=tokyonight" alt="GitHub stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pruthvi300&theme=tokyonight" alt="Repos per language" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pruthvi300&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-## 🏆 GitHub trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pruthvi300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 </p>
 
 ---
