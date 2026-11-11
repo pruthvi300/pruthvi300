@@ -10,8 +10,9 @@
 
 ## Hi there 👋, I'm Pruthviraj
 
-Software engineer from **Pune, India** with **4+ years** of experience building scalable full stack web applications, with a strong backend focus in **Python (FastAPI, Flask)** and frontends in **Vue.js and React**. I like making slow things fast, and making systems that keep working when parts of them fail.
+Software engineer from **Pune, India** with **4.5+ years** of experience building scalable full stack web applications, with a strong backend focus in **Python (FastAPI, Flask)** and frontends in **Vue.js and React**. I like making slow things fast, and making systems that keep working when parts of them fail.
 
+- 💼 Currently building data-heavy forecasting and pipeline views for an **enterprise AI revenue platform**, working with a US-based client team
 - ⚙️ On the backend: async APIs, background job systems, caching and database performance
 - 🎨 On the frontend: data-heavy dashboards and interactive UIs with Vue 3 and React
 - 🧠 Recently building with **LLMs and RAG** (LangChain, ChromaDB, OpenAI / Ollama)
@@ -27,10 +28,9 @@ Software engineer from **Pune, India** with **4+ years** of experience building 
 - 📊 Designed a hybrid **MySQL (OLTP) + ClickHouse (OLAP)** setup for **sub-second dashboards over 10M+ rows**
 - 💰 Split a monolith into separate queue workers with per-country isolation, cutting **cloud costs by 20%**
 - 🧊 Added multi-level caching for 5,000+ config files, bringing **cold start from 50 s to under 5 s**
-- 📦 Reworked large data exports with chunked retrieval so **1M+ records download without timeouts**, cutting failed requests by ~80%
-- 🗂️ Added targeted indexes on high-volume tables, speeding up key queries by **~40%**
-- 🔀 Built custom client workflows with **Vue Flow**, and worked on a full UI redesign of the product
-- 🖥️ Built frontend views that render **50,000+ row datasets** smoothly with backend-driven rendering
+- 🔐 Integrated **SAML SSO (Okta, Azure AD) and RBAC** for enterprise compliance across 10+ pharma clients
+- 🛠️ Built a Python CLI that automates tenant-specific environment setup across **10+ clients**
+- 🖥️ Built Vue 3 interfaces with a recursive rule builder and virtualized grids handling **50,000+ rows**, and mentored 2 junior developers
 - 🤖 Built an **AI-powered SQL analytics** feature with LangChain + OpenAI so non-technical users can query sales data in plain English
 
 ## 🛠️ Tech stack
@@ -38,7 +38,7 @@ Software engineer from **Pune, India** with **4+ years** of experience building 
 **Backend and data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,postgres,mysql,mongodb,redis&perline=12" alt="Backend and data" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,redis,sqlite&perline=12" alt="Backend and data" />
 </p>
 
 **DevOps and cloud**
@@ -50,10 +50,10 @@ Software engineer from **Pune, India** with **4+ years** of experience building 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,tailwind&perline=12" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,html,css&perline=12" alt="Frontend" />
 </p>
 
-Also: Celery, SQLAlchemy, ClickHouse, Pandas, LangChain, ChromaDB, Socket.IO, Quasar, Pinia, Vue Flow
+Also: Celery, SQLAlchemy, Pydantic, ClickHouse, Pandas, Pytest, LangChain, ChromaDB, Quasar, Pinia, Chart.js, AWS Lambda / SQS / RDS / S3
 
 ## 📌 Featured projects
 
