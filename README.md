@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://pruthvi300.github.io"><img src="https://img.shields.io/badge/Portfolio-pruthvi300.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/pruthvirajkakade"><img src="https://img.shields.io/badge/LinkedIn-Pruthviraj%20Kakade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pruthvi300.github.io/assets/Pruthviraj_Kakade_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   <a href="mailto:pruthvi3.pk@gmail.com"><img src="https://img.shields.io/badge/Email-pruthvi3.pk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=pruthvi300&style=for-the-badge&color=38BDF8&label=Profile+views" alt="Profile views" />
 </p>
