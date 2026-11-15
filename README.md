@@ -67,7 +67,6 @@ Also: Celery, SQLAlchemy, Pydantic, ClickHouse, Pandas, Pytest, LangChain, Chrom
 | **DocuMind** *(repo coming soon)* | Chat with your documents: RAG pipeline with streaming answers and source citations, runs on OpenAI or fully local with Ollama | FastAPI · LangChain · ChromaDB · Next.js |
 | [**TeamSync**](https://github.com/pruthvi300/teamsync) | Real-time collaborative Kanban boards with drag-and-drop and live sync | React · FastAPI · Socket.IO · PostgreSQL |
 | [**Shorty**](https://github.com/pruthvi300/shorty) | URL shortener with Redis-cached redirects and a click analytics dashboard | Flask · MySQL · Redis · Vue 3 |
-| [**LinkSnap**](https://github.com/pruthvi300/linksnap) | URL shortener with accounts, expiry and click limits, analytics and QR codes | FastAPI · MySQL · React |
 
 ## 📊 GitHub stats
 
