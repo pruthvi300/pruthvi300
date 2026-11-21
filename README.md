@@ -12,7 +12,7 @@
 
 ## Hi there 👋, I'm Pruthviraj
 
-Software engineer from **Pune, India** with **4.5+ years** of experience building scalable full stack web applications, with a strong backend focus in **Python (FastAPI, Flask)** and frontends in **Vue.js and React**. I like making slow things fast, and making systems that keep working when parts of them fail.
+Software engineer from **Pune, India** with **4.5+ years** of experience building enterprise SaaS end to end: **Python (FastAPI, Flask)** backends, **Vue.js and React** frontends, and production **LLM features** with LangChain, including natural-language-to-SQL analytics and RAG. I like making slow things fast, and making systems that keep working when parts of them fail.
 
 - 💼 Currently building data-heavy forecasting and pipeline views for an **enterprise AI revenue platform**, working with a US-based client team
 - ⚙️ On the backend: async APIs, background job systems, caching and database performance
@@ -63,8 +63,8 @@ Also: Celery, SQLAlchemy, Pydantic, ClickHouse, Pandas, Pytest, LangChain, Chrom
 | Project | What it is | Stack |
 |---------|------------|-------|
 | [**Pulse**](https://github.com/pruthvi300/pulse-jobs) | Distributed job processing: retries with backoff, idempotency keys, dead-letter queue, React dashboard. Load-tested with 5,000 jobs and 0 lost. | FastAPI · Celery · Redis · PostgreSQL · K8s · Terraform |
+| [**DocuMind**](https://github.com/pruthvi300/documind) | Chat with your documents: RAG pipeline with streaming answers and source citations, runs on OpenAI or fully local with Ollama | FastAPI · LangChain · ChromaDB · Next.js |
 | [**Prime Auth**](https://github.com/pruthvi300/prime-auth) | Authentication service with JWT access/refresh tokens, refresh-token rotation with reuse detection, and rate limiting | FastAPI · PostgreSQL · SQLAlchemy async · Alembic |
-| **DocuMind** *(repo coming soon)* | Chat with your documents: RAG pipeline with streaming answers and source citations, runs on OpenAI or fully local with Ollama | FastAPI · LangChain · ChromaDB · Next.js |
 | [**TeamSync**](https://github.com/pruthvi300/teamsync) | Real-time collaborative Kanban boards with drag-and-drop and live sync | React · FastAPI · Socket.IO · PostgreSQL |
 | [**Shorty**](https://github.com/pruthvi300/shorty) | URL shortener with Redis-cached redirects and a click analytics dashboard | Flask · MySQL · Redis · Vue 3 |
 
